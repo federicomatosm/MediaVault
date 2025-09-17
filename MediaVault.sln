@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaVault.API", "MediaVault.API\MediaVault.API.csproj", "{A1ABA866-B061-4B7F-89EA-4EC2BCE9CFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaVault.Application", "MediaVault.Application\MediaVault.Application.csproj", "{996F2EF7-AA93-4675-88E8-8433000E989E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ABA866-B061-4B7F-89EA-4EC2BCE9CFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ABA866-B061-4B7F-89EA-4EC2BCE9CFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ABA866-B061-4B7F-89EA-4EC2BCE9CFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ABA866-B061-4B7F-89EA-4EC2BCE9CFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996F2EF7-AA93-4675-88E8-8433000E989E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996F2EF7-AA93-4675-88E8-8433000E989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996F2EF7-AA93-4675-88E8-8433000E989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996F2EF7-AA93-4675-88E8-8433000E989E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
